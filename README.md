@@ -11,5 +11,8 @@ Name in square brackets, link in the normal brackets
 
 [Notes about tables](tables.md)
 
+Link to [Protocol](methods/protocol1.md)
+* have to say folder, then file if its in a folder
+
 * Need to have a line after each link otherwise it will treat it as one link, this keeps it as separate lines
 * No spaces between the stuff in square or round brackets otherwise it won't recognise it 
