@@ -1,24 +1,15 @@
 # Digital lab notebook workshop at resbaz 
 This is a repo from the digital lab notebook workshop at resbaz
 
-# Header 
+## Link some of the files here 
 
-## Smaller header
+Name in square brackets, link in the normal brackets
 
-### Even smaller header 
+[Notes about text](text_stuff.md)
 
-#### Still smaller header
+[Notes about lists and bullet points](lists_and_bullets.md)
 
-##### Smaller again
+[Notes about tables](tables.md)
 
-###### The smallest header 
-
-------------------- 
-
-Type lots of - to add a line, adds a light grey line 
-
-Another way to do this is to type lots of _ 
-
-____________________
-
-
+* Need to have a line after each link otherwise it will treat it as one link, this keeps it as separate lines
+* No spaces between the stuff in square or round brackets otherwise it won't recognise it 
